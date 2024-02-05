@@ -1,0 +1,24 @@
+//endpoints//
+
+//for register//POST
+
+//    ---> auth/register<-----    //fields: name,email,password
+
+//for login//POST
+
+//    ---> auth/login<-----    //fields:email,password
+
+
+//for raise reports//(contactus)POST
+//    ----->/reports <--------- //fields: email,report
+
+
+// for post personal details (it ask one time while user login)POST
+//  ------->/personalDetails<---------     fields:userId,age,height,weight,gender
+
+           
+
+                                  //DATABASE
+//for access database im used mongodb atlas you can view stored data there--->cluster()
+
+                 
